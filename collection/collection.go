@@ -6,7 +6,7 @@ package collection
 
 import (
 	"fmt"
-	"user"
+	"git.baijiahulian.com/go-learn/user"
 )
 
 func ToSlice(data ...int) []int {
